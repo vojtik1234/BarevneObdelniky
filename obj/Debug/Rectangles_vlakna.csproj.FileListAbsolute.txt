@@ -1,0 +1,16 @@
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\bin\Debug\Rectangles_vlakna.exe.config
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\bin\Debug\Rectangles_vlakna.exe
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\bin\Debug\Rectangles_vlakna.pdb
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.MainForm.resources
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.csproj.GenerateResource.Cache
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.exe
+D:\PROGRAM\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.pdb
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\bin\Debug\Rectangles_vlakna.exe.config
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\bin\Debug\Rectangles_vlakna.exe
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\bin\Debug\Rectangles_vlakna.pdb
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.csprojResolveAssemblyReference.cache
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.MainForm.resources
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.csproj.GenerateResource.Cache
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.exe
+F:\VOS\ZP - Zaklady programovani\Rectangles_vlakna\Rectangles_vlakna\Rectangles_vlakna\obj\Debug\Rectangles_vlakna.pdb
